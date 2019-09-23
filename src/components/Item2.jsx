@@ -1,7 +1,7 @@
 import React from 'react';
 function Item2(){
-  return(
-    <div id="item2">item2</div>
+  return (
+    <div id="item2">item2
     <div id="container">
   <h1>Different CSS Buttons hover effects </h1>
   <div class="button-1">
@@ -39,8 +39,8 @@ function Item2(){
 </div>
 <footer>
   <h1> Follow me for more awesome css pens <a href="https://codepen.io/Kiraken/" target="_blank"> here </a></h1>
-</footer>
-
+      </footer>
+      </div>
   );
 }
 

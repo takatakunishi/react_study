@@ -1,7 +1,7 @@
 import React from 'react';
 function Item1(){
   return(
-    <div id="Item1">item1</div>
+    <div id="item1">item1</div>
   );
 }
 

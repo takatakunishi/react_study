@@ -2,8 +2,7 @@ import React from 'react';
 function Item2(){
   return (
     <div id="item2">item2
-    <div id="container">
-  <h1>Different CSS Buttons hover effects </h1>
+    <div id="container"> 
   <div class="button-1">
     <div class="eff-1"></div>
     <a href="#"> Touch me </a>

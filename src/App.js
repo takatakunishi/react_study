@@ -1,15 +1,18 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header.jsx';
+import Nav from './components/Nav.jsx';
+import Item1 from './components/Item1.jsx';
+import Item2 from './components/Item2.jsx';
 
 function App() {
   return (
     <div id="container">
-      <div id="header">header</div>
-      <div id="nav">nav</div>
-      <div id="item-1">item-1</div>
-      <div id="item-2">item-2</div>
-
+      <Header />
+      <Nav />
+      <Item1 />
+      <Item2 />
     </div>
   );
 }
